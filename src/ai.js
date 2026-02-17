@@ -2,7 +2,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Replace with your actual key from https://aistudio.google.com
-const GEMINI_API_KEY = "AIzaSyAMZ02mPYTj07Bo9vEIrRCINZ9MvHCizIw";
+const GEMINI_API_KEY = "your api key here ";
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
